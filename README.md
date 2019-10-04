@@ -14,6 +14,7 @@ Assinco: Informática
 Top Center: Informática
 Senai Prof. Vicente Amato: Eletricista automotivo
 Senai Prof. Vicente Amato: Leitura e Interpretação de Desenho Técnico
+Senai Prof. Vicente Amato: Toneiro Mecânico
 Senai Mariano Ferraz: Caldeiraria 
 
 Experiência Profissional
