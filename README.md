@@ -29,21 +29,31 @@ Senai Mariano Ferraz: Caldeiraria
 Experiência Profissional
 
 Empresa: Omnilink
+
 Cargo: 1/2 Oficial Eletricista
+
 Período: 22/10/2007 a 08/04/2008
 
 Empresa: Muller Metais Indústria e Comércio Ltda
+
 Cargo: Ajudante Geral 
+
 Período: 15/10/2008 a 30/08/2011
 
 Empresa: Adelco Sistemas de Energia Ltda
+
 Cargo: Auxiliar de Eletricista
+
 Período: 05/12/2011 a 09/04/2013
 
 Empresa: Frutícola Valinhos Ltda
+
 Cargo: Promotor de Vendas
+
 Período: 12/08/2013 a 04/04/2014
 
 Empresa: Niehoff Herborn Máquinas Ltda.
+
 Cargo: Auxiliar de Usinagem
+
 Período: 22/01/2018 a 03/05/2019
