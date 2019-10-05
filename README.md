@@ -1,7 +1,9 @@
 João Felipe da Silva
 
 Brasileiro - Data de Nasc.: 22/04/1988 - Solteiro
+
 Rua: João Vieira Rocha, 69 - Vila Pindorama - Barueri - SP.
+
 Fone:(11) 4326-4129 Cel: (11) 9 6828-4004 e-mail: felipefs5@hotmail.com
 
 Formação Escolar
@@ -11,11 +13,17 @@ Ensino Médio Completo
 Cursos
 
 Camp: Inglês/Informática/Auxiliar Administrativo
+
 Assinco: Informática
+
 Top Center: Informática
+
 Senai Prof. Vicente Amato: Eletricista automotivo
+
 Senai Prof. Vicente Amato: Leitura e Interpretação de Desenho Técnico
+
 Senai Prof. Vicente Amato: Toneiro Mecânico
+
 Senai Mariano Ferraz: Caldeiraria 
 
 Experiência Profissional
