@@ -12,6 +12,14 @@ Ensino Médio Completo
 
 Cursos
 
+Prof. Gustavo Guanabara: Javascript
+
+Prof. Gustavo Guanabara: HTML5 e CSS
+
+Udemy: Teste com QUNIT
+
+Udemy: Web Moderno com Javascript
+
 Camp: Inglês/Informática/Auxiliar Administrativo
 
 Assinco: Informática
@@ -54,6 +62,6 @@ Período: 12/08/2013 a 04/04/2014
 
 Empresa: Niehoff Herborn Máquinas Ltda.
 
-Cargo: Auxiliar de Usinagem
+Cargo: Analista de Testes JR
 
 Período: 22/01/2018 a 03/05/2019
