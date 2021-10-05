@@ -62,6 +62,6 @@ Período: 12/08/2013 a 04/04/2014
 
 Empresa: Niehoff Herborn Máquinas Ltda.
 
-Cargo: Analista de Testes JR
+Cargo: Operador de Máquina
 
 Período: 22/01/2018 a 03/05/2019
